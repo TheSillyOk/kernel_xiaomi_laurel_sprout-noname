@@ -63,7 +63,7 @@ default='\033[0m'
 # Variable Definitions
 # -----------------------------
 CLANG_VER="clang-r522817"
-ROM_PATH="/mnt/QuickBoi/LineageOS/22"
+ROM_PATH="/home/alee/rom/pixelos"
 CLANG_DIR="$ROM_PATH/prebuilts/clang/host/linux-x86/$CLANG_VER"
 KERNEL_DIR="$PWD"
 Anykernel_DIR="$KERNEL_DIR/AnyKernel3/"
